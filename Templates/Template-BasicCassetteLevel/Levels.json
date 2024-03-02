@@ -1,0 +1,10 @@
+[
+	{
+		"ID": "TEMPLATE_CASSETTE_LEVEL",
+		"Name": "Cassette Template",
+		"Label": "Cassette Template\nMod By: Fuji Team",
+		"Strawberries": 1,
+		"Preview": "Postcards/CassetteTemplate",
+		"Map": "template-cassette"
+	}
+]
